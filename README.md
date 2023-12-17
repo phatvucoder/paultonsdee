@@ -8,10 +8,10 @@
 
 <p float="left">
   <img src="https://github.com/Pyetz/Pyetz/assets/146900526/f739496e-5b9e-4093-b0f7-88b474d2af90" width="50" />
-  <img src="https://github.com/Pyetz/Pyetz/assets/146900526/dd4bb250-2af7-408b-8662-d5f2258a000a" width="50" />
   <img src="https://github.com/Pyetz/Pyetz/assets/146900526/9820dae0-515f-464c-962e-664524bf8224" width="50" />
   <img src="https://github.com/Pyetz/Pyetz/assets/146900526/18c20032-582f-4ef7-b43f-7e0568d2cc61" width="50" /> 
   <img src="https://github.com/Pyetz/Pyetz/assets/146900526/cd8047e1-1735-46bc-bf73-e7b6aaae5ed0" width="50" />
+  <img src="https://github.com/Pyetz/Pyetz/assets/146900526/dd4bb250-2af7-408b-8662-d5f2258a000a" width="50" />
 </p>
 
 - 🌱 I am currently learning Python.
