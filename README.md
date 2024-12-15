@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my page 🥰
+# 👋 Welcome to my page 🥰
 🐣 You can call me Phat Vu. I’m a **third-year Information Technology student** with a growing passion for **Artificial Intelligence** 🤖.
 
 I aspire to research **AI algorithms** and their **practical applications in daily life**, focusing on building intelligent and highly automated systems.
