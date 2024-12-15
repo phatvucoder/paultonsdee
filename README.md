@@ -3,8 +3,9 @@
 
 I aspire to research **AI algorithms** and their **practical applications in daily life**, focusing on building intelligent and highly automated systems.
 
-![image](https://github.com/Pyetz/Pyetz/assets/146900526/18e128f4-7b42-470d-8976-5a92a3e66bf9)
-
+<!-- ![image](https://github.com/Pyetz/Pyetz/assets/146900526/18e128f4-7b42-470d-8976-5a92a3e66bf9) -->
+<!-- ![IMG_1886](https://github.com/user-attachments/assets/24d5bb19-6cc9-4a6b-aba4-e9a200840e6d) -->
+![IMG_1884](https://github.com/user-attachments/assets/ffe42be7-f40c-4520-a7fd-f68aa3d71861)
 
 ## Tools
 
